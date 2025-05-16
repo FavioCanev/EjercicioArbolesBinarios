@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C2907BCC-5BB6-4E5E-BAB2-EBE7B590E63A}|Ejecutable\\Ejecutable.csproj|C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2907BCC-5BB6-4E5E-BAB2-EBE7B590E63A}|Ejecutable\\Ejecutable.csproj|solutionrelative:ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12F7FCC5-2C44-47B5-A08F-191A814BD857}|Clases\\Clases.csproj|c:\\users\\arthur morgan\\source\\repos\\ejercicioarbolesbinarios\\clases\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F7FCC5-2C44-47B5-A08F-191A814BD857}|Clases\\Clases.csproj|solutionrelative:clases\\arbolbinario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12F7FCC5-2C44-47B5-A08F-191A814BD857}|Clases\\Clases.csproj|c:\\users\\arthur morgan\\source\\repos\\ejercicioarbolesbinarios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12F7FCC5-2C44-47B5-A08F-191A814BD857}|Clases\\Clases.csproj|C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12F7FCC5-2C44-47B5-A08F-191A814BD857}|Clases\\Clases.csproj|solutionrelative:clases\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2907BCC-5BB6-4E5E-BAB2-EBE7B590E63A}|Ejecutable\\Ejecutable.csproj|c:\\users\\arthur morgan\\source\\repos\\ejercicioarbolesbinarios\\ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2907BCC-5BB6-4E5E-BAB2-EBE7B590E63A}|Ejecutable\\Ejecutable.csproj|solutionrelative:ejecutable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ArbolBinario.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\Clases\\ArbolBinario.cs",
               "RelativeDocumentMoniker": "Clases\\ArbolBinario.cs",
               "ToolTip": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\Clases\\ArbolBinario.cs",
               "RelativeToolTip": "Clases\\ArbolBinario.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwB0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T18:00:51.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Nodo.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\Clases\\Nodo.cs",
               "RelativeDocumentMoniker": "Clases\\Nodo.cs",
@@ -47,18 +47,17 @@
               "RelativeToolTip": "Clases\\Nodo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T17:57:18.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T17:57:18.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\Ejecutable\\Program.cs",
               "RelativeDocumentMoniker": "Ejecutable\\Program.cs",
               "ToolTip": "C:\\Users\\Arthur Morgan\\source\\repos\\EjercicioArbolesBinarios\\Ejecutable\\Program.cs",
               "RelativeToolTip": "Ejecutable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T17:56:25.294Z",
               "EditorCaption": ""
